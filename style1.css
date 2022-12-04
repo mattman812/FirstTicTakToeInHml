@@ -1,0 +1,17 @@
+body {
+    background-color: #d0e4fe;
+}
+
+.xobutton
+{
+	width: 100px;
+	height: 100px;
+	font-size:95px;
+	text-align: center;
+	vertical-align: middle;
+ 	border: 2px solid rgba(33, 68, 72, 0.59);
+
+}
+
+
+
